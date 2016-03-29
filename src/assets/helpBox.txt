@@ -1,0 +1,17 @@
+Secure encryption in seven steps:
+
+1. Enter the URL.
+
+2. Click the search icon or press Enter(Return).
+
+3. The source code is displayed.
+
+4. Choose the encryption method.
+
+5. Press "Encrypt".
+
+6. From the File menu select "Save Source Code".
+
+7. Name the file and save at desired location.
+
+*Optional steps
